@@ -1,8 +1,8 @@
-# 南哪指南 Life-in-NJU
+# 天时分享 www.24s.net
 
 > 🏠 这儿就是咱的家了
 
-南哪人的专属主页
+天时分享的专属主页
 
 ![](https://github.com/idealclover/Life-in-NJU/raw/master/assets/screenshots/1.png)
 
