@@ -4,11 +4,11 @@
 
 天时分享的专属主页
 
-![](https://github.com/idealclover/Life-in-NJU/raw/master/assets/screenshots/1.png)
+![](https://github.com/fnjerry/Life-in-NJU/raw/master/assets/screenshots/1.png)
 
-![](https://github.com/idealclover/Life-in-NJU/raw/master/assets/screenshots/2.png)
+![](https://github.com/fnjerry/Life-in-NJU/raw/master/assets/screenshots/2.png)
 
-![](https://github.com/idealclover/Life-in-NJU/raw/master/assets/screenshots/3.png)
+![](https://github.com/fnjerry/Life-in-NJU/raw/master/assets/screenshots/3.png)
 
 * 电脑端、移动端适配
 * 可切换百度/谷歌搜索
@@ -17,11 +17,11 @@
 
 ## 投稿、建议或意见
 
-在 [Issue](https://github.com/idealclover/Life-in-NJU/issues) 选择对应的模板并提交。
+在 [Issue](https://github.com/fnjerry/Life-in-NJU/issues) 选择对应的模板并提交。
 
 ## 贵校也想整一个？
 
-Fork，然后改动 [public/data.json](https://github.com/idealclover/Life-in-NJU/blob/master/public/data.json)，即可拥有贵校专属的主页~
+Fork，然后改动 [public/data.json](https://github.com/fnjerry/Life-in-NJU/blob/master/public/data.json)，即可拥有贵校专属的主页~
 
 ## 开发与 debug
 
